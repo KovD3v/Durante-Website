@@ -10,7 +10,7 @@ export default function Navbar() {
 					Home
 				</Link>
 				<Link
-					href="/"
+					href="/me"
 					className="flex text-center p-3 bg-slate-700 rounded-lg text-white ">
 					My Story
 				</Link>
